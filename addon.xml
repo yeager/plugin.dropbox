@@ -11,6 +11,7 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en_GB">Dropbox for KODI</summary>
+		<summary lang="sv_SE">Dropbox för KODI</summary>
 		<description lang="en_GB">
 Play all your media from Dropbox including Videos, Music and Pictures.
  - Unlimited number of accounts.
@@ -30,6 +31,15 @@ Play all your media from Dropbox including Videos, Music and Pictures.
   - שימוש ב-Dropbox כמקור
   - תוכנית זו אינה קשורה או ממומנת על ידי Dropbox.
 		</description>		
+		<description lang="sv_SE">
+Spela upp alla dina mediafiler från Dropbox, inklusive videor, musik och bilder.
+- Obegränsat antal konton.
+- Sök på hela din enhet.
+- Automatiskt uppdaterat bildspel.
+- Exportera dina videor till ditt bibliotek (.strm-filer)
+- Använd Dropbox som källa
+- Detta program är inte anslutet till eller sponsrat av Dropbox.
+		</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<source>https://github.com/cguZZman/plugin.dropbox</source>
 		<forum>https://github.com/cguZZman/plugin.dropbox/issues</forum>
